@@ -19,7 +19,7 @@
   
   header h1 {
     text-align: center;
-    margin: -4px 0;
+    margin: 4px 0;
     letter-spacing: 0.15px
   }
   
@@ -48,8 +48,10 @@
   }
   
   .medium {
+    height: 6px;
     height: 5px;
       color: red;
+
   }
   
   .small-text {
