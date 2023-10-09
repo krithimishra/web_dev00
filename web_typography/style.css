@@ -49,6 +49,7 @@
   
   .medium {
     height: 5px;
+      color: red;
   }
   
   .small-text {
@@ -91,7 +92,7 @@
   }
   
   .daily-value p:not(.no-divider) {
-    border-bottom: 1px solid #888989;
+    border-bottom: 2px solid #888989;
   }
   
   .note {
